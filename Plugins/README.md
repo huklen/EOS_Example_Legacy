@@ -1,0 +1,1 @@
+Place the EOSCore plugin folder here.
