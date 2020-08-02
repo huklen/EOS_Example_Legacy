@@ -10,3 +10,4 @@ Build/
 *.sln
 SteamCoreExample/Plugins/
 SteamCoreWebExample/Plugins/
+Plugins/EOSCore
